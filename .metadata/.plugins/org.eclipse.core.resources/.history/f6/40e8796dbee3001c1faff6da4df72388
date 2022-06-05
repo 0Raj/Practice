@@ -1,0 +1,9 @@
+package com.masai;
+
+public class Demo implements check {
+
+	@Override
+	public void fun1() {
+		
+	}
+}
